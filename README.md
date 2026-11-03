@@ -1,7 +1,7 @@
 ## Smart Matrix Display Project by :
-Monder Abu Zmiro
-mohammad miari
-Moamen Kassem
+* Monder Abu Zmiro
+* mohammad miari
+* Moamen Kassem
   
 ## Details about the project
 We want to develop a 32x32 matrix display controlled through a web or mobile application the system will allow the user to create and manage multiple profiles where each profile defines  different modes.
