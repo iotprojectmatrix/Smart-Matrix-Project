@@ -1,6 +1,11 @@
-## XXXXX Project by :  
+## Smart Matrix Display Project by :
+Monder Abu Zmiro
+mohammad miari
+Moamen Kassem
   
 ## Details about the project
+We want to develop a 32x32 matrix display controlled through a web or mobile application the system will allow the user to create and manage multiple profiles where each profile defines  different modes.
+Also it will connect to the internet to get real time data like time , date ,location (for weather data) and based on this data it will dynamically change colors, animations, and information.
  
 ## Folder description :
 * ESP32: source code for the esp side (firmware).
